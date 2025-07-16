@@ -66,4 +66,4 @@ Each row in the dataset represents one bird's migration instance with detailed a
 
 ---
 
-Screenshot-: ![image alt](https://github.com/Vikas-Sajwan/Birds_Migration_Analysis-Power-Bi/blob/0f0e2f3ef4ac1b4325890fca2c93a60449c3073d/Dashboard%20Screenshot.png)
+Screenshot-: ![image alt](https://github.com/Vikas-Sajwan/Birds_Migration_Analysis-Power-Bi/blob/18d4bde6b75153ac6c1407c20b95a73d8118c465/Screenshot.png)
